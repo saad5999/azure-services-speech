@@ -29,7 +29,7 @@ from azure.identity.aio import DefaultAzureCredential
 
 SAMPLE_RATE: Final = 24000
 CHUNK_SAMPLES: Final = 1200
-PROJECT_ENDPOINT = "https://24691a32m4-9376-resource.services.ai.azure.com/api/projects/24691a32m4-9376"
+PROJECT_ENDPOINT = ""
 AGENT_NAME = "speech-to-text-agent"
 
 
